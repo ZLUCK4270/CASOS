@@ -1,0 +1,21 @@
+{
+  "name": "estudiantes-techsolutions",
+  "version": "1.0.0",
+  "description": "Sistema de Registro de Estudiantes - TechSolutions con Node.js y Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "estudiantes",
+    "techsolutions"
+  ],
+  "author": "TechSolutions Team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

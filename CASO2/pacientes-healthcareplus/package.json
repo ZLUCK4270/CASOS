@@ -1,0 +1,21 @@
+{
+  "name": "pacientes-healthcareplus",
+  "version": "1.0.0",
+  "description": "Sistema de Registro de Pacientes - HealthCarePlus con Node.js y Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "pacientes",
+    "healthcareplus"
+  ],
+  "author": "HealthCarePlus Medical Systems",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

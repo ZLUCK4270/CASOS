@@ -1,0 +1,6 @@
+{
+  "name": "Sistemas Node.js & Express - 3 Casos",
+  "description": "Suite de aprendizaje y ejecución para los 3 casos de servidores locales Node.js y Express: TechSolutions (Estudiantes), HealthCarePlus (Pacientes) y EduTechPro (Cursos).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cursos-edutechpro",
+  "version": "1.0.0",
+  "description": "Sistema de Registro de Cursos - EduTechPro con Node.js y Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "cursos",
+    "edutechpro"
+  ],
+  "author": "EduTechPro Learning Systems",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
